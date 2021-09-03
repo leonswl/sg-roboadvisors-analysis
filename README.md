@@ -8,7 +8,7 @@ Sentiment analysis on the popular robo-advisors in Singapore
 Extracting sentiment related data from the robo advisors using app reviews from Google Play Store and Apple Store
 
 1.1 - Scraping reviews
-1.2 - Rule based sentiment analysis
+1.2 - Rule based sentiment analysis using VADER
 
 Reference:
 - https://python.plainenglish.io/scraping-storing-google-play-app-reviews-with-python-5640c933c476
@@ -16,3 +16,5 @@ Reference:
 - https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb
 
 ## Part 2 - Social media Sentiment Analysis
+Conduct unsupervised langauge models on social media comments 
+- BERT/ERNIE
