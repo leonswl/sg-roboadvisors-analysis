@@ -17,6 +17,3 @@ Reference:
 - https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb
 - https://www.analyticsvidhya.com/blog/2021/06/rule-based-sentiment-analysis-in-python/   
 
-## Part 2 - Social media Sentiment Analysis
-Conduct unsupervised langauge models on social media comments 
-- BERT/ERNIE
