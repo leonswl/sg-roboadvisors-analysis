@@ -8,7 +8,9 @@ Sentiment analysis on the popular robo-advisors in Singapore
 Extracting sentiment related data from the robo advisors using app reviews from Google Play Store and Apple Store
 
 1.1 - Scraping reviews in app-review-analysis
+
 1.2 - Rule based sentiment analysis using TextBlob, VADER and SentiWordNet
+
 1.3 - Visualising and Intepreting results
 
 Reference:
