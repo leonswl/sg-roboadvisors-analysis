@@ -24,7 +24,7 @@ ipywidgets==7.6.3
 itunes-app-scraper-dmi==0.9.4
 jedi==0.18.0
 Jinja2==3.0.1
-joblib==1.0.1
+joblib==1.2.0
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==7.0.1
